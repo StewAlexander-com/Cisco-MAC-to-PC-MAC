@@ -6,7 +6,7 @@ Ex:
   ```
   to
   ```
-  AB:CD:EF:GH:IJ:KL:
+  AB:CD:EF:GH:IJ:KL
   ```
 <br>
 The purpose is to take a "sh ip arp" from a Cisco switch, copy out the mac address list to a file, have the file then convert this into a PC formatted MAC address list, and save the results to a new file, which when added to the existing "sh ip arp" data produces a searcharble list of data
